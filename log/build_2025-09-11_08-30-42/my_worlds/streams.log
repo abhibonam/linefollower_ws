@@ -1,0 +1,24 @@
+[0.023s] Invoking command in '/home/vignesh/turtlebot3_ws/build/my_worlds': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vignesh/ros2_ws/install/turtlebot3_autorace_mission:/home/vignesh/ros2_ws/install/turtlebot3_autorace_detect:/home/vignesh/ros2_ws/install/turtlebot3_autorace_camera:/home/vignesh/ros2_ws/install/tb3_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/vignesh/turtlebot3_ws/build/my_worlds -- -j16 -l16
+[0.230s] Invoked command in '/home/vignesh/turtlebot3_ws/build/my_worlds' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vignesh/ros2_ws/install/turtlebot3_autorace_mission:/home/vignesh/ros2_ws/install/turtlebot3_autorace_detect:/home/vignesh/ros2_ws/install/turtlebot3_autorace_camera:/home/vignesh/ros2_ws/install/tb3_line_follower:/opt/ros/humble /usr/bin/cmake --build /home/vignesh/turtlebot3_ws/build/my_worlds -- -j16 -l16
+[0.244s] Invoking command in '/home/vignesh/turtlebot3_ws/build/my_worlds': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vignesh/ros2_ws/install/turtlebot3_autorace_mission:/home/vignesh/ros2_ws/install/turtlebot3_autorace_detect:/home/vignesh/ros2_ws/install/turtlebot3_autorace_camera:/home/vignesh/ros2_ws/install/tb3_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/vignesh/turtlebot3_ws/build/my_worlds
+[0.252s] -- Install configuration: ""
+[0.253s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/ament_index/resource_index/package_run_dependencies/my_worlds
+[0.254s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/ament_index/resource_index/parent_prefix_path/my_worlds
+[0.254s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/environment/ament_prefix_path.sh
+[0.255s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/environment/ament_prefix_path.dsv
+[0.255s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/environment/path.sh
+[0.255s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/environment/path.dsv
+[0.255s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/local_setup.bash
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/local_setup.sh
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/local_setup.zsh
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/local_setup.dsv
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/package.dsv
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/ament_index/resource_index/packages/my_worlds
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/cmake/my_worldsConfig.cmake
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/cmake/my_worldsConfig-version.cmake
+[0.256s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/package.xml
+[0.257s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/launch
+[0.257s] -- Installing: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/launch/line_world.launch.py
+[0.259s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/worlds
+[0.259s] -- Up-to-date: /home/vignesh/turtlebot3_ws/install/my_worlds/share/my_worlds/worlds/line_world.world
+[0.263s] Invoked command in '/home/vignesh/turtlebot3_ws/build/my_worlds' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vignesh/ros2_ws/install/turtlebot3_autorace_mission:/home/vignesh/ros2_ws/install/turtlebot3_autorace_detect:/home/vignesh/ros2_ws/install/turtlebot3_autorace_camera:/home/vignesh/ros2_ws/install/tb3_line_follower:/opt/ros/humble /usr/bin/cmake --install /home/vignesh/turtlebot3_ws/build/my_worlds
